@@ -75,6 +75,6 @@ Learning Backend & PostgreSQL
 
 Video: https://drive.google.com/file/d/19QmIHXOpn_kzkBhIN4qbDyxRYfSTDx0a/view?usp=sharing
 
-Diagram: https://lucid.app/lucidchart/84ac6146-da60-47ac-9077-ad3f8fdc4728/edit?viewport_loc=-547%2C-800%2C2992%2C1419%2C0_0&invitationId=inv_7df0c9d6-48a8-4e3d-8e04-07c477eec221
+Diagram: https://lucid.app/lucidchart/84ac6146-da60-47ac-9077-ad3f8fdc4728/edit?viewport_loc=-547%2C-1309%2C2992%2C1420%2C0_0&invitationId=inv_7df0c9d6-48a8-4e3d-8e04-07c477eec221
 
 github: 
